@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "This is Lijun's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "崔丽君"
+name                     : "Lijun"
 description              : "Hi, I am fitness personal trainer. I am open to discuss the fabulous discovering of self and the world."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
