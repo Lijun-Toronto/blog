@@ -95,10 +95,10 @@ analytics:
 # Site Author
 author:
   name             : "Lijun"
-  avatar           : "/docs/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/docs/assets/images/mylogo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi, I am fitness personal trainer. I am open to discuss the fabulous discovering of self and the world."
+  location         : "Toronto, Canada"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
